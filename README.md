@@ -66,7 +66,7 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 Your final product will be assessed on the following metrics:
 
-* Creation of a **new** repository on GitHub called `D3-Challenge` (note the kebab-case). Do not add to an already existing repo.
+* Creation of a **new** repository on GitHub.
 
 * Completion of all steps in the core assignment
 
