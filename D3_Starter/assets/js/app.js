@@ -84,7 +84,7 @@ d3.csv("assets/data/data.csv")
 
         console.log(riskData);
 
-        //Bottom Text of Chart
+        //Bottom Text for Chart
 
         chartGroup.append("text")
             .attr("transform", "rotate(-90)")
