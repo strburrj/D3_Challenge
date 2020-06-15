@@ -56,7 +56,7 @@ d3.csv("assets/data/data.csv")
         chartGroup.append("g")
             .call(leftAxis);
 
-        //Circles 
+        //Circles for Chart
         let circlesGroup = chartGroup.selectAll("circle")
             .data(riskData)
             .enter()
