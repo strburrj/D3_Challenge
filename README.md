@@ -68,7 +68,7 @@ Your final product will be assessed on the following metrics:
 
 * Creation of a **new** repository on GitHub.
 
-* Completion of all steps in the core assignment
+* Completion of all steps in the core assignment.
 
 * Coherency of scatter plot (labels, ticks)
 
